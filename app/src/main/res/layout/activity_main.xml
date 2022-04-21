@@ -9,15 +9,6 @@
     tools:context=".MainActivity">
 
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="@string/testButton"
-        android:id="@+id/button"
-        android:onClick="testMock"
-        android:layout_alignParentTop="true"
-        />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

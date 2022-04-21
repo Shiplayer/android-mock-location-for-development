@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MockLocationForDeveloper</string>
+    <string name="app_name">SimVirtualLocation</string>
     <string name="action_help">Help</string>
     <string name="usageTitle">        adb [-s &lt; specific device>] shell am broadcast -a send.mock  [-e lat &lt;latitude>] [-e lon &lt;longitude>]
         [-e alt &lt;altitude>] [-e accurate &lt;accurate>]</string>
