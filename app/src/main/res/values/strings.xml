@@ -9,4 +9,5 @@
     <string name="exampleTitle">Example:</string>
     <string name="title_activity_help">help</string>
     <string name="hello_world">Hello world!</string>
+    <string name="pro_service_channel_name">LocationService</string>
 </resources>
